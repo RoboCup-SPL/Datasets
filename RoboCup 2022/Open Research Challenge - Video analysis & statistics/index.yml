@@ -1,0 +1,41 @@
+B-Human:
+  title: "RoboCup 2019 - B-Human vs HTWK Robots - First Half - 2019-07-07 13-30-00"
+  labels: B-Human/2019-07-07_13-30-00_B-Human_vs_Nao-Team HTWK_half1-A.csv
+  data: https://cloud.robocup.org/s/SWyx4yN7gNHG3Bb
+  origin: https://logs.naoth.de/2019-07-02_RC19-others/2019-07-07_13-30-00_B-Human_vs_Nao-Team%20HTWK_half1-A/
+
+"Berlin United":
+  title: "RoboCup 2019 - Berlin United vs HTWK Robots - First Half - 2019-07-05 17-05-00"
+  labels: Berlin United/2019-07-05_17-05-00_Berlin United_vs_HTWK_half1.csv
+  data: https://cloud.robocup.org/s/4tP5g879MTrJb38
+  origin: https://logs.naoth.de/2019-07-02_RC19/2019-07-05_17-05-00_Berlin%20United_vs_HTWK_half1/
+
+"Nao Devils":
+  title: "RoboCup 2019 - HTWK Robots vs Nao Devils - First Half - 2019-07-07 10-00-00"
+  labels: Nao Devils/2019-07-07_10-00-00_Nao-Team HTWK_vs_Nao Devils_half1-E.csv
+  data: https://cloud.robocup.org/s/YWp8Rj58sENmnZQ
+  origin: https://logs.naoth.de/2019-07-02_RC19-others/2019-07-07_10-00-00_Nao-Team%20HTWK_vs_Nao%20Devils_half1-E/
+
+NomadZ:
+  title: "RoboCup 2019 - HULKs vs NomadZ - Second Half - 2019-07-06 12-15-00"
+  labels: NomadZ/2019-07-06_12-15-00_HULKs_vs_NomadZ_half2-D.csv
+  data: https://cloud.robocup.org/s/DBbpMLnH6pGX386
+  origin: https://logs.naoth.de/2019-07-02_RC19-others/2019-07-06_12-15-00_HULKs_vs_NomadZ_half2-D/
+
+"R-ZWEI KICKERS":
+  title: "RoboCup 2019 - B-Human vs rUNSWift - First Half - 2019-07-07 09-10-00"
+  labels: R-ZWEI KICKERS/2019-07-07_09-10-00_B-Human_vs_rUNSWift_half1-D.csv
+  data: https://cloud.robocup.org/s/LMy3wGBcDJxXrNL
+  origin: https://logs.naoth.de/2019-07-02_RC19-others/2019-07-07_09-10-00_B-Human_vs_rUNSWift_half1-D/
+
+RoboEireann:
+  title: "RoboCup 2019 - Naova vs RoboEireann - Second Half - 2019-07-06 10-00-00"
+  labels: RoboEireann/2019-07-06_10-00-00_Naova_vs_RoboEireann_half2-C.csv
+  data: https://cloud.robocup.org/s/4EEbJpNxjzYCTAk
+  origin: https://logs.naoth.de/2019-07-02_RC19-others/2019-07-06_10-00-00_Naova_vs_RoboEireann_half2-C/
+
+SPQR:
+  title: "RoboCup 2019 - TJArk vs SPQR - First Half - 2019-07-06 11-30-00"
+  labels: SPQR/2019-07-06_11-30-00_TJArk_vs_SPQR_half1-E.csv
+  data: https://cloud.robocup.org/s/QYSYbgznEYjmSQW
+  origin: https://logs.naoth.de/2019-07-02_RC19-others/2019-07-06_11-30-00_TJArk_vs_SPQR_half1-E/
