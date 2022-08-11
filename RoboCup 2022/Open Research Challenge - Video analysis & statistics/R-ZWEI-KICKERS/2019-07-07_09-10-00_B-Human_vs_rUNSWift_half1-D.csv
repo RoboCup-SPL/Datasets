@@ -1,4 +1,4 @@
-Filename,Label,xmin,ymin,xmax,ymax,Color,Number
+filename,label,x_min,y_min,x_max,y_max,color,number
 127060.jpg,0,95,311,179,386,3,1
 127060.jpg,0,179,306,264,382,3,5
 127060.jpg,0,1009,109,1039,161,3,2
